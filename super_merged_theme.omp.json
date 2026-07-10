@@ -153,7 +153,7 @@
       "segments": [
         {
           "background": "#FF2900",
-          "foreground": "#000000",
+          "foreground": "#34DE21",
           "style": "diamond",
           "leading_diamond": "<transparent,#FF2900>\ue0c7</>",
           "trailing_diamond": "<transparent,#FF2900>\ue0c6</>",
