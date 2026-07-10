@@ -5,7 +5,7 @@
       "alignment": "left",
       "segments": [
         {
-          "foreground": "#6E2DC8",
+          "foreground": "#34DE21",
           "style": "plain",
           "template": "\u256d\u2500",
           "type": "text"
@@ -92,7 +92,7 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#6E2DC8",
+          "foreground": "#34DE21",
           "style": "plain",
           "template": "\u251c\u2500",
           "type": "text"
@@ -171,7 +171,7 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#6E2DC8",
+          "foreground": "#34DE21",
           "style": "plain",
           "template": "\u2570\u2500",
           "type": "text"
