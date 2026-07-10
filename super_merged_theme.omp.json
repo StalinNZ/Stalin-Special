@@ -5,7 +5,7 @@
       "alignment": "left",
       "segments": [
         {
-          "foreground": "#34DE21",
+          "foreground": "#6E2DC8",
           "style": "plain",
           "template": "\u256d\u2500",
           "type": "text"
@@ -21,7 +21,7 @@
           "type": "os"
         },
         {
-          "background": "#34DE21",
+          "background": "#FF2900",
           "foreground": "#000000",
           "powerline_symbol": "\ue0c6",
           "style": "powerline",
@@ -92,7 +92,7 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#34DE21",
+          "foreground": "#6E2DC8",
           "style": "plain",
           "template": "\u251c\u2500",
           "type": "text"
@@ -152,11 +152,11 @@
       "alignment": "right",
       "segments": [
         {
-          "background": "#FF2900",
-          "foreground": "#000000",
+          "background": "#6E2DC8",
+          "foreground": "#ffffff",
           "style": "diamond",
-          "leading_diamond": "<transparent,#FF2900>\ue0c7</>",
-          "trailing_diamond": "<#FF2900,transparent>\ue0c6</>",
+          "leading_diamond": "<transparent,#34DE21>\ue0c7</><#34DE21,#6E2DC8>\ue0c7</>",
+          "trailing_diamond": "<#6E2DC8,#34DE21>\ue0c6</><#34DE21,transparent>\ue0c6</>",
           "options": {
             "time_format": "15:04:05 | 2006-01-02"
           },
@@ -171,7 +171,7 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#34DE21",
+          "foreground": "#6E2DC8",
           "style": "plain",
           "template": "\u2570\u2500",
           "type": "text"
