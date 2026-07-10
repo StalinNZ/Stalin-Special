@@ -1,4 +1,4 @@
-# Super Merged Oh My Posh Theme
+# Stalin-Special Oh My Posh Theme
 
 A custom, highly pixelated digital Oh My Posh theme merging elements of Agnoster, Atomic, and If_Tea, featuring sharp red digital powerline edges, live system resources, and command-level timestamps.
 
