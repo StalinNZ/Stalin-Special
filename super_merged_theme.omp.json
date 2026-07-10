@@ -37,10 +37,10 @@
           "type": "sysinfo"
         },
         {
-          "background": "#83769c",
+          "background": "#F51800",
           "foreground": "#ffffff",
-          "trailing_diamond": "<transparent,#F51800>\ue0c6</>",
-          "style": "diamond",
+          "powerline_symbol": "\ue0c6",
+          "style": "powerline",
           "options": {
             "always_enabled": true
           },
