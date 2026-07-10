@@ -160,7 +160,7 @@
           "options": {
             "time_format": "15:04:05 | 2006-01-02"
           },
-          "template": " \ue641 {{ .CurrentDate | date .Format }} \uf073 ",
+          "template": "  \ue641  {{ .CurrentDate | date .Format }}  \uf073  ",
           "type": "time"
         }
       ],
